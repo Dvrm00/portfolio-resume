@@ -1,0 +1,21 @@
+.about .intro ul.info {
+  margin-top: 40px;
+  padding: 0;
+  list-style: none;
+}
+
+.about .intro ul.info li {
+  padding: 7px 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  color: #0c0c0c;
+  font-size: 14px;
+}
+
+.about .intro ul.info li:first-child {
+  padding-top: 0;
+}
+
+.about .intro p {
+  margin: 0;
+}

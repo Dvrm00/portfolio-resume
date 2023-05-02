@@ -1,0 +1,17 @@
+[
+  {
+    "img": "assets/images/testimonial-img1.jpg",
+    "desc": "Pri diam soluta molestie at, id melius ponderum mel, nominavi adipisci partiendo per te. No usu doctus dolorem liberavisse, vim nusquam invidunt id.",
+    "name": "John Doe"
+  },
+  {
+    "img": "assets/images/testimonial-img2.jpg",
+    "desc": "Pri diam soluta molestie at, id melius ponderum mel, nominavi adipisci partiendo per te. No usu doctus dolorem liberavisse, vim nusquam invidunt id.",
+    "name": "John Doe"
+  },
+  {
+    "img": "assets/images/testimonial-img3.jpg",
+    "desc": "Pri diam soluta molestie at, id melius ponderum mel, nominavi adipisci partiendo per te. No usu doctus dolorem liberavisse, vim nusquam invidunt id.",
+    "name": "John Doe"
+  }
+]

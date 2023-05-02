@@ -1,0 +1,48 @@
+/*-----------------------------------------------------------------*/
+/*                      GLOBAL STYLES                              */
+/*-----------------------------------------------------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  color: #1a1a1a;
+  background-color: #5352d4;
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+ul {
+  padding-left: 15px;
+}
+
+li {
+  padding: 0 0 10px;
+}
+
+/*
+/*-----------------------------------------------------------------*/
+/*                      LAYOUT                                     */
+/*-----------------------------------------------------------------*/
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 991px) {
+  .wrapper {
+    width: 100%;
+  }
+}

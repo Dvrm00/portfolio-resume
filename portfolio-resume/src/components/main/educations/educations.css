@@ -1,0 +1,38 @@
+/*-----------------------------------------------------------------*/
+/*                      SECTION RESUME                             */
+/*-----------------------------------------------------------------*/
+.resume .resume-item {
+  background: #fff;
+  margin-top: 30px;
+  max-height: 140px;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 767px) {
+  .resume .resume-item {
+    margin-top: 30px !important;
+  }
+}
+
+.resume [class^="col"]:first-child .resume-item {
+  margin-top: 0;
+}
+
+.resume .resume-item h2 {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 10px;
+}
+
+.resume .resume-item span {
+  color: #666;
+  display: block;
+  font-size: 12px;
+  font-weight: 300;
+  margin: 0 0 10px;
+}
+
+.resume .resume-item p {
+  line-height: 20px;
+  margin-bottom: 0;
+}

@@ -1,0 +1,23 @@
+/*-----------------------------------------------------------------*/
+/*                      HEADER                                     */
+/*-----------------------------------------------------------------*/
+.header {
+  background: #5655da;
+  padding: 46px;
+  position: fixed;
+  height: 100%;
+  width: 260px;
+  z-index: 5;
+}
+
+@media only screen and (max-width: 991px) {
+  .header {
+    -ms-transform: translateX(-260px);
+    -webkit-transform: translateX(-260px);
+    transform: translateX(-260px);
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+}

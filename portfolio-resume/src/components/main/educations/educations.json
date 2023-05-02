@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Master Degree Of Design",
+    "month": "JANUARY",
+    "year": 2007,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit maxime laborum sequi, magni earum quo soluta sint velit numquam, ipsum illum! Nostrum possimus illo architecto praesentium ut aliquam dolorem."
+  },
+  {
+    "title": "Bachelor Of Arts",
+    "month": "JUNE",
+    "year": 2004,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit maxime laborum sequi, magni earum quo soluta sint velit numquam."
+  },
+  {
+    "title": "Master Degree Of Design",
+    "month": "JANUARY",
+    "year": 2001,
+    "desc": "Odit maxime laborum sequi, magni earum quo soluta sint velit numquam, ipsum illum! Nostrum possimus illo architecto praesentium ut aliquam dolorem."
+  }
+]
